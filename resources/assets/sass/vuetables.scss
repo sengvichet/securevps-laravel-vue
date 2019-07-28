@@ -1,0 +1,95 @@
+.VueTables__child-row-toggler {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: 1.2em;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    cursor: pointer;
+}
+
+.VueTables__child-row-toggler--closed::before {
+    content: "\f196";
+}
+
+.VueTables__child-row-toggler--open::before  {
+    content: "\f147";
+}
+
+.VueTables__child-row td {
+    padding: 0;
+}
+
+.VueTables--client {
+}
+.VueTables__table {
+    // width: 90%;
+    // margin: 0 auto;
+}
+
+.VueTables__sortable {
+    >.VueTables__heading {
+        cursor: pointer;
+    }
+    > .VueTables__sort-icon {
+        cursor: pointer;
+    }
+}
+
+.fa-sort {
+    color: #a0a0a0;
+}
+
+.fa-sort-asc, .fa-sort-desc {
+    color: #0a0a0a;
+}
+
+.table-childrow {
+    border-bottom: 3px solid #aaa;
+    border-top: 1px solid #aaa;
+    background-color: #fff;
+    margin-bottom: 0;
+    width: 100%;
+    th {
+        text-align: right;
+        font-size: 0.75em;
+    }
+    td {
+        text-align: right;
+        font-size: 0.8em;
+        padding: 4px;
+    }
+}
+
+.VueTables {
+    >.row {
+        margin-left: 0;
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+}
+
+.VueTables__search {
+    label {
+        display: inline-block;
+        width: 50px;
+    }
+    input {
+        display: inline-block;
+        width: 200px;
+        border: 1px solid #ccc;
+    }
+}
+
+.VueTables__limit {
+    width: 170px;
+    label {
+        display: inline-block;
+        width: 80px;
+    }
+    select {
+        display: inline-block;
+        width: 80px;
+        border: 1px solid #ccc;
+    }
+}

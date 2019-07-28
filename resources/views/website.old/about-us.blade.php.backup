@@ -1,0 +1,321 @@
+﻿@extends('website.layouts.app')
+
+@section('title', 'SHEV | אודותינו אחסון שרתים מאובטחים')
+
+@section('headercolor')
+<header class="alt-3">
+@stop
+
+@section('msgaboveheader')
+<!--  MESSAGES ABOVE HEADER IMAGE -->
+<div class="message">
+<div class="row">
+<div class="small-12 columns">
+<div class="message-intro">
+<span class="message-line"></span>
+<p>קצת עלינו</p>
+<span class="message-line"></span>
+</div>
+<h1>SHEV אחסון שרתים מאובטחים</h1>
+</div>
+</div>
+</div>
+<!--  END OF MESSAGES ABOVE HEADER IMAGE -->
+
+</header>
+<!--  END OF HEADER -->
+@stop
+
+@section('content')
+<!--  MAIN PAGE CONTENT  -->
+<div class="about-us-subheader">
+<div class="row">
+<div class="small-12 columns">
+    <h2>אודות SHEV.COM</h2>
+    <p>
+        חברתינו הוקמה ב-1997 ועמדה בחזית הטכנולוגיה מיום היווסדה.
+    <br />
+    אנו מספקים 100% שביעות רצון ללקוחות
+    <br />
+    ארונות התקשורת שלנו ממוקמים בחוות השרתים של סלקום
+    <br />
+    "תעשו את מה שאתם טובים בו, אנחנו נדאג לשאר."
+    <br />
+    SHEV.com
+  <br />
+	
+									</TABLE></TD>
+										</TR>
+										<TR>
+											
+                <TD bordercolor="#000000" valign="top" width="867" style="border-left-style: solid; border-left-width: 1; border-right-style: solid; border-right-width: 1; border-top-style: solid; border-top-width: 1; border-bottom-style: none; border-bottom-width: medium"> 
+                   </TD>
+										</TR>
+										<TR>
+											
+                <TD bordercolor="#000000" valign="top" width="867" style="border-top-style: none; border-top-width: medium"> 
+                  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber5">
+                    <tr>
+                      <td width="5%"> </td>
+                      <td width="93%">
+                      <p align="justify">
+		      <font face="Arial" size="3" color="#808080"><u>
+                      אודות הציוד והשרתים השונים  
+		      </u></font><br>
+                      <span lang="en-us">SHEV.com</span> שירותי אחסון אתרים  מאובטחים השקיעה במשאבים רבים על מנת להעניק ללקוחותיה את 
+                      מיטב השירותים הקיימים ורכשה מספר רב (יותר מ-50 שרתים) של שרתים רבי עוצמה מבית DELL מדגמים מתקדמים (סידרת R) כולל R530, R620, R610.
+כמו-כן, מערך התקשורת עצמו מורכב מסוויטשים (מתגים) מבית  Cisco - עם דגמי  Enterprise Class כדוגמת  WS4948 (חיבורי Giga), ומתגי  10GB לתקשורת פנים של מערך הגיבויים.
+לצרכי הגנות אקטיביות - אנו משתמשים במוצרי חברת  Fortinet  עם יחידות פיירוול  FG300C ו-FG300D.
+</p>
+                      <p align="justify"><font face="Arial" color="#808080">
+                      <font size="4"><u><a href="#חוות השרתים – בזק בינלאומי">
+                      <font color="#808080">אודות חוות השרתים</font></a></u></font><br>
+                      <span lang="en-us">SHEV.com </span>שירותי אחסון אתרים 
+                      מאובטחים מאחסנת שרתים בחוות שרתים מסביב לעולם ומחזיקה 
+                      בארונות תקשורת פרטיים בחלק מהן: בין חוות השרתים אשר בהן
+                      <span lang="en-us">SHEV.com </span>מחזיקה שרתים כלולים 
+                      "<b>בזק בינלאומי</b>" בפתח תקווה, "<b>013 ברק</b>" בפארק אפק<span lang="en-us">
+                      </span>וגם בחו"ל - בקליפורניה (<span lang="en-us">Santa 
+                      Barbara) </span>וגם בטקסס (<span lang="en-us">Houston).</span></font></td>
+                      <td width="2%"> </td>
+                    </tr>
+                    <tr>
+                      <td width="5%"> </td>
+                      <td width="93%">
+                      <font face="Arial" color="#C0C0C0">
+                       <hr>
+                      </font>
+                      <p> </td>
+                      <td width="2%"> </td>
+                    </tr>
+                    <tr>
+                      <td width="5%"> </td>
+                      <td width="93%">
+                      <font size="4" face="Arial" color="#808080"><u>
+                      <a name="מידע טכני על השרת">מידע טכני על הציוד והש</a></u><a name="מידע טכני על השרת">רת</a>ים 
+                      השונים</font><font face="Arial" color="#808080"><br>
+                      <br>
+                      <br>
+                      <span lang="en-us">SHEV.com</span> שירותי אחסון אתרים 
+                      מאובטחים השקיעה במשאבים רבים על מנת להעניק ללקוחותיה את 
+                      מיטב השירותים הקיימים ורכשה את הציוד המתקדם ביותר.</font><p>
+                      <font face="Arial" color="#808080"><font size="3"><b>שרתי 
+                      הדגל </b></font>של <span lang="en">IBM</span> ו-<span lang="en">DELL
+                      </span>הינם בראש הציוד. אלו הם שרתים מתקדמים עם מעבדי
+                      <span lang="en-us">Dual Xeon, </span>חלקם עם
+                      <span lang="en">RAID-5 </span>וחלקם עם <span lang="en">
+                      RAID-1, </span>כולם עם הארד-דיסקים של <span lang="en">SCSI
+                      </span>למהירות יעילות ואמינות לאורך שנים.</font></p>
+                      <p><font face="Arial" color="#808080"><font size="3"><b>
+                      שרתי הביניים</b></font> הינם שרתי פנטיום 4 עם מפרטים שונים  
+                      המתואמים לפי צרכי הלקוח וההזמנה.</font></p>
+                      <p><font face="Arial" color="#808080">
+                      <b><font size="3">מארזים </font></b> עם תכנון קירור אויר 
+                      ופליטת חום מיוחד הכולל 5 מאווררים לפליטת החום של המערכת (כולל 
+                      מאוורר ייעודי  למערך הדיסקים). זהו מארז עם תכנון משופר הבנוי על מפרט 
+                      קפדני והתאמה לארון שרתים. שלא כמו במארזים קטנים כדוגמת 
+                      1U או אפילו 2U האוגרים חום גבוה ואינם מאפשרים פליטת חום 
+                      מתאימה, דבר היכול לגרום להתחממות ייתר של המעבד וקריסת 
+                      מערכת, המארז הזה שומר על קור רוח וחום נמוך מאד. המארז 
+                      והמערכת תוכננו לשילוב פליטה מקסימלית של חום המערכת ושמירה 
+                      על תנאים אופטימליים בכל זמן נתון.</font></p>
+                      <p><font face="Arial" color="#808080"><font size="3">
+                      <b><span lang="en-us">Routers & Switches </span></b></font>
+                      בשימוש הינם מבית <b>DELL</b> דגמים מתקדמים כגון
+                      <span lang="en-us">PowerConnect 2724 </span>עם 24 של  
+                      Gigabit Ethernet ports, יכולת מיתוג ,Switching Capacity - 
+                      48 Gbps<br>
+                      ויכולת דחיפת נתונים Forwarding Rate - 35.6 Mpps.</font></p>
+                      <p><font face="Arial" color="#808080">
+                      <font size="3"><b>שירותי אבטחת שרת CheckPoint Firewall-1</b></font> להגנה מקסימלית על 
+                      השרת יש שימוש ב "פיירוול". חיצוני באמצעות צ'ק פויינט</font></p>
+                      <p><font face="Arial" color="#808080">
+                      <font size="3"><b>שירותי ניטור ובקרה</b></font> 24 שעות 7 
+                      ימים בשבוע <br>
+                      <br>
+                      <font size="3"><b>לוחות בקרה מסוג cPanel, <span lang="en">
+                      HELM</span>, <span lang="en-us">HostingController, 
+                      DirectAdmin</span></b></font> הידידותיים 
+                      והמשוכללים ביותר בעולם.<br>
+ </font></p>
+                      <p><span lang="he"><font face="Arial" color="#808080">
+                      <a href="#UP"><font color="#AE4325">
+                      <img border="0" src="../shev.com/images0/up.gif" width="21" height="19"> 
+                      חזרה למעלה</font></a><hr></font></span>
+                      <p> </td>
+                      <td width="2%"> </td>
+                    </tr>
+                    <tr>
+                      <td width="5%"> </td>
+                      <td width="93%">
+                      <p><font size="4" face="Arial" color="#808080"><u>
+                      <a name="חוות השרתים – בזק בינלאומי">חוות השרתים – בזק 
+                      בינלאומי</a> </u></font></p>
+                      <p><font face="Arial" color="#808080">בזק בינלאומי הינה חברת אינטרנט בעלת תשתיות וטכנולוגיה 
+                      מתקדמות ואמינות ביותר, כולל רוחב פס של למעלה מ- 2.4G. 
+                      החברה מספקת שירותי קישור אינטרנט וברשותה אפיקי תקשורת 
+                      בחיבור ישיר לשדרת האינטרנט בארה"ב (קישור ישיר אל ה- 
+                      Backbone Internet דרך UUNET ו- Teleglobe), לשדרת האינטרנט 
+                      באירופה ולצומת האינטרנט הישראלית, ה- IIX, (Internet 
+                      Israeli eXchange) המקשר בין ספקי האינטרנט המקומיים. החיבור 
+                      הישיר באמצעות התשתיות הרחבות והציוד הטכנולוגי החדיש, 
+                      מאפשרים לך, הלקוח, גישה מהירה, יעילה, בטוחה ופשוטה לעולם 
+                      האינטרנט ולמגוון השירותים הנלווים אליו, וכל זאת בסטנדרטים 
+                      גבוהים ביותר של אמינות ושירות. </font></p>
+                      <p><font face="Arial" color="#808080">חוות השרתים נבנתה 
+                      בהתאם לסטנדרטים של TELECO, איגוד חברות הטלפוניה העולמי, 
+                      שהם הסטנדרטים המחמירים ביותר הקיימים כיום. לחווה אבטחה 
+                      פיסית מחמירה ביותר, שירותי גיבוי מתקדמים, שירותי אבטחת 
+                      מידע וקישוריות ברוחב פס גבוה ביותר השרתים מותקנים בארונות 
+                      תקשורת, בחדר ממוזג ומחוברים למערכת החשמל עם אפשרות להזנת 
+                      מתח כפולה ומערכת אל-פסק (UPS). בנוסף מגובה מערכת החשמל ע"י 
+                      שני גנרטורים. כל שרת מאוחסן בארון נפרד על מנת לקבל אבטחה 
+                      מקסימלית. החווה מוגנת ע"י מערכת לגילוי מוקדם וכיבוי אש. 
+                      הכניסה לחווה מבוקרת ונעשית אך ורק בליווי נציג בזק בינלאומי. 
+                      בחווה מערכת ניהול ובקרת מבנה מתקדמת המאפשרת שליטה על 
+                      השירותים השונים.</font></p>
+                      <p><font face="Arial" color="#808080">כל שרת בחוות השרתים 
+                      מוגן ע"י Firewallמתוצרת Check-Point בשימוש בזק בינלאומי. 
+                      מערך ה- Firewall בנוי ב- Redundancy ומבטיח שרידות מכסימלית 
+                      של החווה. השרת מחובר ב- VLAN. אבטחת המידע ב- VLAN הנה ברמה 
+                      הגבוהה והמאובטחת ביותר, בדומה ל- Firewall פרטי. שירות 
+                      אבטחת מידע ב- VLAN ניתן כחלק מחבילת ההתקשרות. </font></p>
+                      <p><font face="Arial" color="#808080">החווה מאובטחת 24 
+                      שעות ביממה, כולל גיבוי של מצלמות. ארונות התקשורת נעולים 
+                      וכניסה לאתר תתאפשר למורשים בלבד, לאחר רישום בקבלה. לחווה 
+                      מערכת גילוי והתראה נגד אש והצפה (כיבוי אש בגז שאינו מזיק 
+                      לציוד). בחווה מערכות מיזוג נפרדות מתוצרת Liebert כולל 
+                      מיזוג תת רצפתי ישירות לארונות התקשורת. בנוסף לחווה הגנות 
+                      נגד חשמל סטטי כגון: רצפה צפה ושכבת פוקסי על הרצפה לצורך 
+                      הארקה.</font></p>
+                      <p><font face="Arial" color="#808080">מוקד התמיכה הטכנית 
+                      של חוות השרתים פועל 24 שעות ביממה ומספק תמיכה הכוללת: 
+                      ביצוע RESET לפי דרישה, תוך עד 10 דקות מרגע קבלת הדרישה 
+                      מהלקוח, הגדרות בשרת ה- Firewall, הגדרות ניתוב וניטור
+                      </font></p>
+                      <p><font size="4" face="Arial" color="#808080"><u>
+                      חוות השרתים – 013 ברק</u></font></p>
+                      <p><font face="Arial" color="#808080">013 ברק מספקת 
+                      ללקוחותיה העסקיים חוות שרתים מתקדמת מסוגה המאפשרים ללקוח 
+                      לקבל פתרונות ארוח אתרים (Co Location) וארוח שרתים (Web 
+                      Hosting) מתקדמים ביותר. 013 ברק מספקת שירותי אירוח וקישור 
+                      ישירות לשדרת האינטרנט באמצעות UUNet, Equant, Sprint, 
+                      ו-Telia, וכן קישורים ישירים לספקי האינטרנט העיקריים בישראל 
+                      ולצומת האינטרנט הישראלי (IIX). הפס הרחב של 013 ברק, בין 
+                      ישראל וצמתי האינטרנט המרכזיים, מספק מענה אינטרנט מושלם 
+                      לצורכי המגזר העסקי. קישור חדר השרתים לאינטרנט מתבצע 
+                      באמצעות מערך קווי נתונים אופטיים בלתי-תלויים, המקושרים 
+                      ישירות אל שדרת האינטרנט העולמית, לספקי האינטרנט העיקריים 
+                      בישראל ואל צומת האינטרנט הישראלי. <br>
+                      <br>
+                      לטובת לקוחות 013 ברק עומד מרכז לקוחות המאפשר ללקוח בשירות 
+                      ה CoLocation לעבוד ב 013 ברק על המערכות המתארחות בחוות 
+                      השרתים בחדר נח, מפנק ובעל נגישות טכנולוגית. לקוחות המגיעים 
+                      למרכז נהנים מליווי טכני צמוד בכל תקלה ובעיה. החווה מאובטחת 
+                      24 שעות ביממה, השרתים מאוחסנים בארונות נעולים וגישת הלקוח 
+                      לשרת מתאפשרת תוך ליווי צמוד של מנהלי האתר. בחווה קיימים 
+                      מערכות חשמל הכוללות: מערכות אל-פסק וגנרטורים לגיבוי 
+                      ומערכות גילוי אש. האתר או השרת שלך מוזמנים ליהנות מהשירות 
+                      הזה, 24 שעות ביממה ו-7 ימים בשבוע. </font></p>
+                      <p> </td>
+                      <td width="2%"> </td>
+                    </tr>
+                  </table>
+                  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber4">
+                    <tr>
+                      <td width="5%"> </td>
+                      <td width="93%">
+                      <hr>
+                      <p><font face="Arial" color="#808080"><span lang="en-us">Secured Hosting EnVironment (SHEV).com
+                  </span>מעניקה פתרונות מאובטחים  מהרמה הראשונה. בין אם 
+                      שירותי דואר אלקטרוני (<span lang="en-us">WebMail, 
+                      IMAP4/POP3</span>) וחבילות אחסון אתרים מאובטחים ובין אם 
+                      שרתיים ייעודיים, חנויות וירטואליות או קידום אתרים, ב<span lang="en-us">-SHEV.com
+                      </span>שירותי אחסון אתרים 
+                      מאובטחים - נושא האבטחה הוא בראש מעיננו.</font></p>
+                      <p><font face="Arial" color="#808080">שירותי אחסון אתרים 
+                  וגיבויים דורשים מהירות, יציבות אמינות ואבטחה לאורך זמן. שילוב 
+                  של טכנולוגיות מתקדמות במערכות מידע עם מנגנוני אבטחה לשרידות 
+                  מידע ואבטחתו מאפשרים ל<span lang="en-us">-SHEV.com</span> 
+                      שירותי אחסון אתרים מאובטחים להציע שרתים ייעודיים וחבילות 
+                  אחסון מהרמה הראשונה.</font></p>
+                  <p><font face="Arial" color="#808080">אנו כה בטוחים ביכולת 
+                  הטכנולוגיה המתקדמת שהושקעו בה משאבים רבים, שאנו מוכנים לקחת את 
+                  האחריות ולהציע  100% שביעות רצון. כל משתמש חדש זכאי 
+                  לשבועיים ניסיון מלאים של חבילות האחסון ללא כל התחייבות.</font></p>
+                  
+                      <p> </td>
+
+
+
+                      <td width=2%> </td>
+                    </tr>
+                  </table>
+                  
+                  <p> </p>
+                  
+                  </TD>
+										</TR>
+					</TABLE></TD>
+				</TR>
+		</TABLE></TD>
+
+
+</p>
+</div>
+</div>
+</div>
+
+<div data-wow-delay="0.2s" class="connect-with-us wow fadeInUp">
+<div class="row">
+<div class="small-12 columns">
+<h2>הישארו מחוברים</h2>
+
+<ul class="large-block-grid-5 medium-block-grid-5 small-block-grid-1 connecticons">
+<li><a href=""><i class="fa fa-facebook"></i></a></li>
+<li><a href=""><i class="fa fa-twitter"></i></a></li>
+<li><a href=""><i class="fa fa-google-plus"></i></a></li>
+<li><a href=""><i class="fa fa-linkedin"></i></a></li>
+<li><a href=""><i class="fa fa-pinterest"></i></a></li>
+</ul>
+
+ </div>
+</div>
+</div>
+
+
+
+<!--  ABOUT US LINKS -->
+<section class="about-us-links">
+<div class="row">
+<div class="small-12 columns">
+
+<ul class="small-block-grid-1 large-block-grid-3 medium-block-grid-3">
+
+<li  data-wow-delay="0.2s" class="wow fadeInLeft">
+<i class="fa fa-file-text"></i>
+<h3>Our Blog</h3>
+<p>Food truck artisan cillum voluptate umami Austin quis, viral asymmetrical freegan occaecat swag skateboard</p>
+<div class="cta-button"><p><span><a href="">READ MORE</a></span></p></div>
+</li>
+
+<li data-wow-delay="0.4s" class="wow fadeInLeft">
+<i class="fa fa-twitch"></i>
+<h3>Testimonials</h3>
+<p>Food truck artisan cillum voluptate umami Austin quis, viral asymmetrical freegan occaecat swag skateboard</p>
+<div class="cta-button"><p><span><a href="">READ MORE</a></span></p></div>
+</li>
+
+<li data-wow-delay="0.6s" class="wow fadeInLeft">
+<i class="fa fa-envelope"></i>
+<h3>Contact Us</h3>
+<p>Food truck artisan cillum voluptate umami Austin quis, viral asymmetrical freegan occaecat swag skateboard</p>
+<div class="cta-button"><p><span><a href="">READ MORE</a></span></p></div>
+</li>
+
+</ul>
+</div>
+</div>
+</section>
+<!--  END OF  ABOUT US LINKS  -->
+@stop
